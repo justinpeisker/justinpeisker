@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on a guitar listing app
 - 🌱 I’m currently learning typscript
 - 💬 Ask me about audio engineering, guitar, cooking, web development, and sports!
-- 📫 How to reach me: ![linkedin-logo-copy](https://user-images.githubusercontent.com/87906218/155850978-164f2560-8d92-4b25-aeb4-74414cdf8264.png)
+- 📫 How to reach me: <img width="60" alt="Screen Shot 2022-02-26 at 8 31 55 AM" src="https://user-images.githubusercontent.com/87906218/155851048-6b6a7e29-52ef-4879-8cf6-9374de499b5d.png">
+
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Currently in the process of brainwashing all of my nephews and neice to love guitars as much as I do! 🤘🎸
