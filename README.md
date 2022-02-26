@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning typscript
 - 💬 Ask me about audio engineering, guitar, cooking, web development, and sports!
 - 📫 How to reach me:
-   <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://user-images.githubusercontent.com/87906218/155851139-e6f8ba38-db00-400f-a727-289b455802df.png">
+ <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://user-images.githubusercontent.com/87906218/155851139-e6f8ba38-db00-400f-a727-289b455802df.png">
 
    
 - 😄 Pronouns: He/Him
