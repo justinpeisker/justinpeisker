@@ -5,9 +5,10 @@
 - 💬 Ask me about audio engineering, guitar, cooking, web development, and sports!
 - 📫 How to reach me:
 
-  <a href='https://linkedin.com/in/justinpeisker' target='_blank'> <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://user-images.githubusercontent.com/87906218/155851410-1c0e78b4-e82a-4d9f-b75f-d6402c5c7fa8.png"> </a>
+  <a href='https://linkedin.com/in/justinpeisker' target='_blank'> <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href= 'https://www.instagram.com/justinpeisker/' target='_blank'> <img src= 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /> </a> <a href= 'https://twitter.com/justinpeisker' target='_blank'> <img src= 'https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /> </a>
 
 - Languages and Tools:
+
   <img src= 'https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' />  <img src= 'https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white' />
   
 
