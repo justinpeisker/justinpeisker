@@ -5,7 +5,10 @@
 - 💬 Ask me about audio engineering, guitar, cooking, web development, and sports!
 - 📫 How to reach me:
 
-  <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://github.com/justinpeisker">
+<a href= 'https://linkedin.com/in/justinpeisker'> <img width="36" alt="Screen Shot 2022-02-26 at 8 33 14 AM" src="https://user-images.githubusercontent.com/87906218/155851410-1c0e78b4-e82a-4d9f-b75f-d6402c5c7fa8.png"> </a>
+
+
+  
 
    
 - 😄 Pronouns: He/Him
